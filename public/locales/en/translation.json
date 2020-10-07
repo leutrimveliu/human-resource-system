@@ -1,0 +1,314 @@
+{
+  "welcome": "Welcome",
+  "dashboard": "Dashboard",
+  "departments": "Departments",
+  "employees": "Employees",
+  "payroll": "Payroll",
+  "timeattendance": "Time & Attendance",
+  "bonuses": "Bonuses",
+  "tasks": "Tasks",
+  "calendar": "Calendar",
+  "gallery": "Gallery",
+  "recruitments": "Recruitments",
+  "AddDepartment": "Add Department",
+  "AddEmployee": "Add an Employee",
+  "AddTask": "Add Task",
+  "DepartmentsList": "Departments List",
+  "EmployeesList": "Employees List",
+  "TaskList": "Tasks List",
+  "EditDepartment": "Edit Department",
+  "EditEmployee": "Edit employee",
+  "EditTask": "Edit Task",
+  "job": "Jobs",
+  "AddJob": "Add Job",
+  "JobList": "Jobs List",
+  "EditJob": "Edit a job",
+  "footerMenu1": [
+    {
+      "name": "About Us"
+    },
+    {
+      "name": "Career"
+    },
+    {
+      "name": "Services"
+    },
+    {
+      "name": "Properties"
+    },
+    {
+      "name": "Contact"
+    }
+  ],
+  "footerMenu2": [
+    {
+      "name": "Our Homes"
+    },
+    {
+      "name": "Member Stories"
+    },
+    {
+      "name": "Neighbors"
+    },
+    {
+      "name": "SiteMap"
+    },
+    {
+      "name": "Lookbook"
+    }
+  ],
+  "footerMenu3": [
+    {
+      "name": "Privacy"
+    },
+    {
+      "name": "Terms & Conditions"
+    },
+    {
+      "name": "Account"
+    },
+    {
+      "name": "Advertise"
+    },
+    {
+      "name": "Research"
+    }
+  ],
+  "footerMenu4": [
+    {
+      "name": "FAQ"
+    },
+    {
+      "name": "Our Team"
+    },
+    {
+      "name": "Pricing"
+    },
+    {
+      "name": "Meber Guidelines"
+    },
+    {
+      "name": "Partner Resouces"
+    }
+  ],
+  "homeBanner": {
+    "title1": "HireSeek: Find the right job.",
+    "title2": "Right now.",
+    "title3": "People find jobs"
+  },
+  "login": "Login",
+  "mainMenu": [
+    {
+      "link": "how-it-work",
+      "name": "How It Works"
+    },
+    {
+      "link": "freelancer-search",
+      "name": "Browse Job"
+    },
+    {
+      "link": "categories-business",
+      "name": "Hire Worker"
+    },
+    {
+      "link": "services-details",
+      "name": "Resume Service"
+    },
+    {
+      "link": "partnership",
+      "name": "Partner"
+    },
+    {
+      "link": "support-center-overview",
+      "name": "Recruiter"
+    }
+  ],
+  "mobileMenu": [
+    {
+      "link": "how-it-work",
+      "name": "How It Works"
+    },
+    {
+      "link": "freelancer-search",
+      "name": "Browse Job"
+    },
+    {
+      "link": "categories-business",
+      "name": "Hire Worker"
+    },
+    {
+      "link": "services-details",
+      "name": "Resume Service"
+    },
+    {
+      "link": "partnership",
+      "name": "Partner"
+    },
+    {
+      "link": "support-center-overview",
+      "name": "Recruiter"
+    },
+    {
+      "link": "sign-up",
+      "name": "Register"
+    }
+  ],
+  "userMenu": {
+    "title1": "Messages",
+    "title2": "Jobs",
+    "title3": "Freelancers",
+    "title4": "Teams",
+    "title5": "Settings",
+    "title6": "Logout"
+  },
+  "searchBar": {
+    "title1": "Choose the job tittle",
+    "title2": "Keyword, name, date…",
+    "title3": "Search All Jobs"
+  },
+  "jobAdd": "Jobs Added",
+  "findJobs": {
+    "title1": "HireSeek: Find the right job.",
+    "title2": "Right now.",
+    "title3": "Choose the job tittle",
+    "title4": "Filters",
+    "title5": "Search All Jobs",
+    "title6": "Recommended",
+    "title7": "Latest",
+    "title8": "Freelance",
+    "title9": "Full Time",
+    "title10": "Intersnship",
+    "title11": "Browse More (25,262)",
+    "title12": "View More",
+    "title13": "1 Month ago"
+  },
+  "jobsActive": "Jobs Active",
+  "popularCategories": "Popular Categories",
+  "browseMore": "Browse More",
+  "recentNews": "Recent News",
+  "readMore": "Read more",
+  "featuresYouLike": "Features you’ll like, service you’ll fall in love with !",
+  "whyTrust": "Why trust HireSeek?",
+  "browseCategories": "HireSeek: Browse categories.",
+  "rightNow": "Right now.",
+  "browserCategoriesDesc": "is an advanced job directory & listings application completely written in Symfony framework. With the Job Platform you are able to create your web application in no time. Symfony makes site easy customizable and flexible for all developers with the intermediate knowledge and experience of framework.",
+  "popularJobLocations": "Popular Job Locations",
+  "popularJobTitles": "Popular Job Titles",
+  "popularJobCategories": "Popular Job Categories",
+  "popularJobCompanies": "Popular Job Companies",
+  "jobTitles": [
+    {
+      "link": "",
+      "name": "Banking / Finance"
+    },
+    {
+      "link": "",
+      "name": "Beauty Care / Health"
+    },
+    {
+      "link": "",
+      "name": "Building & Construction"
+    },
+    {
+      "link": "",
+      "name": "Design"
+    },
+    {
+      "link": "",
+      "name": "Education"
+    },
+    {
+      "link": "",
+      "name": "Engineering"
+    },
+    {
+      "link": "",
+      "name": "Hospitality"
+    },
+    {
+      "link": "",
+      "name": "Information Technology"
+    }
+  ],
+  "jobCategories": [
+    {
+      "link": "",
+      "name": "Charity / Social Services / Non-Profit Organisation"
+    },
+    {
+      "link": "",
+      "name": "Chemical / Plastic / Paper / Petrochemical"
+    },
+    {
+      "link": "",
+      "name": "Civil Services (Government, Armed Forces)"
+    },
+    {
+      "link": "",
+      "name": "Clothing / Garment / Textile"
+    },
+    {
+      "link": "",
+      "name": "Educatio"
+    }
+  ],
+  "downloadOurApps": "Download our apps for iOS and Android platforms.",
+  "getMobileApp": "Get HireSeek Mobile App",
+  "baseInfoMenu": [
+    {
+      "link": "about",
+      "name": "About"
+    },
+    {
+      "link": "start-selling",
+      "name": "Start Selling"
+    },
+    {
+      "link": "pricing",
+      "name": "Pricing"
+    },
+    {
+      "link": "showcase-of-projects",
+      "name": "Showcase of projects"
+    },
+    {
+      "link": "mobile-app-underpage",
+      "name": "Mobile App"
+    },
+    {
+      "link": "contact",
+      "name": "Contact"
+    }
+  ],
+  "aboutUs": "About us",
+  "browser": "Browser",
+  "additionalService": "Additional Service",
+  "helpfullResource": "Helpfull Resource",
+  "footerMenu5": [
+    {
+      "link": "contact",
+      "name": "Contact Us"
+    },
+    {
+      "link": "privacy-policy",
+      "name": "Private Center"
+    },
+    {
+      "link": "privacy-policy",
+      "name": "Security Center"
+    },
+    {
+      "link": "privacy-policy",
+      "name": "Accessibility Center"
+    },
+    {
+      "link": "privacy-policy",
+      "name": "AdChoices"
+    }
+  ],
+  "subcribeTitle": "Subcribe to our newsletter",
+  "enterMail": "Enter your email address",
+  "subcribe": "Subcribe",
+  "reserved": "All right reserved",
+  "connectUs": "Connect with Us"
+}

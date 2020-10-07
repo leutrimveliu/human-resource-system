@@ -1,0 +1,9 @@
+.footer {
+  background-color: #343a40;
+  width: 100vw;
+  height: 3rem;
+  z-index: 2;
+}
+strong {
+  color: white;
+}

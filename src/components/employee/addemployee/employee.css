@@ -1,0 +1,81 @@
+.employee-page {
+  height: 100%;
+  min-height: 100vh;
+}
+.employee-container {
+  width: 25vw;
+  border: 1px solid #ced4da;
+  margin: 0 auto;
+  padding: 1rem;
+  border-radius: 0.25rem;
+  background-color: white;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+}
+.inputs > h1 {
+  color: #3f51b5;
+  text-align: center;
+}
+
+.employee_list {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.edit_button {
+  width: 50px;
+  padding: 10px;
+}
+.edit_button:focus {
+  outline: none;
+}
+
+.edit_icon {
+  color: #000;
+}
+.edit_icon:hover {
+  color: darkgreen;
+}
+
+.delete_button {
+  width: 50px;
+  padding: 10px;
+}
+
+.delete_button:focus {
+  outline: none;
+}
+
+.delete_icon {
+  color: #000;
+}
+
+.delete_icon:hover {
+  color: darkred;
+}
+
+.openform_button {
+  width: 250px;
+}
+
+.MuiFormControlLabel-root > span {
+  color: #000;
+}
+
+.MuiIconButton-root {
+  color: #000;
+}
+
+.MuiSvgIcon-root {
+  color: #000;
+}
+
+
+.errorMessages{
+  color: darkred;
+  margin-top:5px;
+
+}

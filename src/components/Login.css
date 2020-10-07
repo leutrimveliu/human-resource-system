@@ -1,0 +1,16 @@
+.login{
+    height:100vh;
+}
+
+.form_container{
+    background-color:#f8f4f5;
+}
+
+.submit_button{
+    width:250px;
+    margin-top:20px;
+}
+
+.email_input{
+    width:350px;
+}

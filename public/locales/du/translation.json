@@ -1,0 +1,314 @@
+{
+  "welcome": "Welkom",
+  "dashboard": "Instrumentenbord",
+  "departments": "Afdelingen",
+  "employees": "Werknemers",
+  "payroll": "Loonlijst",
+  "timeattendance": "Tijdregistratie",
+  "bonuses": "Bonussen",
+  "tasks": "Taken",
+  "calendar": "Kalender",
+  "gallery": "Galerij",
+  "recruitments": "Rekruteringen",
+  "AddDepartment": "Afdeling toevoegen",
+  "AddEmployee": "Werknemer toevoegen",
+  "AddTask": "Voeg taak toe",
+  "DepartmentsList": "Afdelingenlijst",
+  "EmployeesList": "Werknemerslijst",
+  "TaskList": "Takenlijst",
+  "EditDepartment": "Afdeling bewerken",
+  "EditEmployee": "Werknemer bewerken",
+  "EditTask": "Taak bewerken",
+  "AddJob": "Job toevoegen",
+  "JobsList": "Werklijst",
+  "EditJob": "Bewerk taak",
+  "job": "Baan",
+  "footerMenu1": [
+    {
+      "name": "Over ons"
+    },
+    {
+      "name": "Carrière"
+    },
+    {
+      "name": "Diensten"
+    },
+    {
+      "name": "Eigendommen"
+    },
+    {
+      "name": "Contact"
+    }
+  ],
+  "footerMenu2": [
+    {
+      "name": "Onze huizen"
+    },
+    {
+      "name": "Verhalen van leden"
+    },
+    {
+      "name": "Buren"
+    },
+    {
+      "name": "SiteMap"
+    },
+    {
+      "name": "Kijkboek"
+    }
+  ],
+  "footerMenu3": [
+    {
+      "name": "Privacy"
+    },
+    {
+      "name": "Algemene Voorwaarden"
+    },
+    {
+      "name": "Account"
+    },
+    {
+      "name": "Reclame maken"
+    },
+    {
+      "name": "Onderzoek"
+    }
+  ],
+  "footerMenu4": [
+    {
+      "name": "FAQ"
+    },
+    {
+      "name": "Ons team"
+    },
+    {
+      "name": "Prijsstelling"
+    },
+    {
+      "name": "Richtlijnen voor leden"
+    },
+    {
+      "name": "Partnerbronnen"
+    }
+  ],
+  "homeBanner": {
+    "title1": "HireSeek: Finde den richtigen Job.",
+    "title2": "Jetzt sofort.",
+    "title3": "Mensen vinden een baan"
+  },
+  "login": "Anmelden",
+  "mainMenu": [
+    {
+      "link": "how-it-work",
+      "name": "Hoe het werkt"
+    },
+    {
+      "link": "freelancer-search",
+      "name": "Bladeren door job"
+    },
+    {
+      "link": "categories-business",
+      "name": "Huur een werknemer in"
+    },
+    {
+      "link": "services-details",
+      "name": "Service hervatten"
+    },
+    {
+      "link": "partnership",
+      "name": "Partner"
+    },
+    {
+      "link": "support-center-overview",
+      "name": "Recruiter"
+    }
+  ],
+  "mobileMenu": [
+    {
+      "link": "how-it-work",
+      "name": "Hoe het werkt"
+    },
+    {
+      "link": "freelancer-search",
+      "name": "Bladeren door job"
+    },
+    {
+      "link": "categories-business",
+      "name": "Huur een werknemer in"
+    },
+    {
+      "link": "services-details",
+      "name": "Service hervatten"
+    },
+    {
+      "link": "partnership",
+      "name": "Partner"
+    },
+    {
+      "link": "support-center-overview",
+      "name": "Recruiter"
+    },
+    {
+      "link": "sign-up",
+      "name": "Registreren"
+    }
+  ],
+  "userMenu": {
+    "title1": "Berichten",
+    "title2": "Jobs",
+    "title3": "Freelancers",
+    "title4": "Teams",
+    "title5": "Instellingen",
+    "title6": "Afmelden"
+  },
+  "searchBar": {
+    "title1": "Kies de functietitel",
+    "title2": "Sleutelwoord, naam, datum ...",
+    "title3": "Alle vacatures zoeken"
+  },
+  "jobAdd": "Banen toegevoegd",
+  "findJobs": {
+    "title1": "HireSeek: vind de juiste baan.",
+    "title2": "Nu meteen.",
+    "title3": "Kies de baan, klein",
+    "title4": "Filters",
+    "title5": "Alle vacatures zoeken",
+    "title6": "Aanbevolen",
+    "title7": "Nieuwste",
+    "title8": "Freelance",
+    "title9": "Fulltime",
+    "title10": "Intersnship",
+    "title11": "Browse More (25.262)",
+    "title12": "Meer weergeven",
+    "title13": "1 maand geleden"
+  },
+  "jobActive": "Jobs actief",
+  "popularCategories": "Popular Categories",
+  "browseMore": "Browse More",
+  "recentNews": "Recent nieuws",
+  "readMore": "Lees verder",
+  "featuresYouLike": "Functies die u leuk vindt, service waar u verliefd op wordt!",
+  "whyTrust": "Waarom HireSeek vertrouwen?",
+  "browseCategories": "HireSeek: door categorieën bladeren.",
+  "rightNow": "Nu meteen.",
+  "browserCategoriesDesc": "is een geavanceerde job directory & listing applicatie volledig geschreven in Symfony framework. Met het Job Platform bent u in staat om uw webapplicatie in een mum van tijd te creëren. Symfony maakt de site gemakkelijk aanpasbaar en flexibel voor alle ontwikkelaars met de gemiddelde kennis en ervaring van kader. ",
+  "popularJobLocations": "Populaire vacaturesites",
+  "popularJobTitles": "Populaire functietitels",
+  "popularJobCategories": "Populaire functiecategorieën",
+  "popularJobCompanies": "Populaire banenbedrijven",
+  "jobTitles": [
+    {
+      "link": "",
+      "name": "Bank / financiën"
+    },
+    {
+      "link": "",
+      "name": "Schoonheid / gezondheid"
+    },
+    {
+      "link": "",
+      "name": "Bouw & constructie"
+    },
+    {
+      "link": "",
+      "name": "Design"
+    },
+    {
+      "link": "",
+      "name": "Onderwijs"
+    },
+    {
+      "link": "",
+      "name": "Engineering"
+    },
+    {
+      "link": "",
+      "name": "Gastvrijheid"
+    },
+    {
+      "link": "",
+      "name": "Informatietechnologie"
+    }
+  ],
+  "jobCategories": [
+    {
+      "link": "",
+      "name": "Liefdadigheid / sociale diensten / non-profitorganisatie"
+    },
+    {
+      "link": "",
+      "name": "Chemisch / Plastic / Papier / Petrochemisch"
+    },
+    {
+      "link": "",
+      "name": "Civil Services (regering, strijdkrachten)"
+    },
+    {
+      "link": "",
+      "name": "Kleding / kledingstuk / textiel"
+    },
+    {
+      "link": "",
+      "name": "Educatio"
+    }
+  ],
+  "downloadOurApps": "Download onze apps voor iOS- en Android-platforms.",
+  "getMobileApp": "Get HireSeek mobiele app",
+  "baseInfoMenu": [
+    {
+      "link": "about",
+      "name": "Over"
+    },
+    {
+      "link": "start-selling",
+      "name": "Begin met verkopen"
+    },
+    {
+      "link": "pricing",
+      "name": "Preisgestaltung"
+    },
+    {
+      "link": "showcase-of-projects",
+      "name": "Showcase van projecten"
+    },
+    {
+      "link": "mobile-app-underpage",
+      "name": "Mobiele app"
+    },
+    {
+      "link": "contact",
+      "name": "Contact"
+    }
+  ],
+  "aboutUs": "Over ons",
+  "browser": "Browser",
+  "additionalService": "Aanvullende service",
+  "helpfullResource": "Helpfull Resource",
+  "footerMenu5": [
+    {
+      "link": "contact",
+      "name": "Neem contact op"
+    },
+    {
+      "link": "privacy-policy",
+      "name": "Privé centrum"
+    },
+    {
+      "link": "privacy-policy",
+      "name": "Beveiligings centrum"
+    },
+    {
+      "link": "privacy-policy",
+      "name": "Toegankelijkheidscentrum"
+    },
+    {
+      "link": "Accessibility Center",
+      "name": "AdChoices"
+    }
+  ],
+  "subcribeTitle": "Abonneer u op onze nieuwsbrief",
+  "enterMail": "Vul je e-mailadres in",
+  "subcribe": "Abonneren",
+  "reserved": "Alle Rechte vorbehalten",
+  "connectUs": "Mit uns verbinden"
+}

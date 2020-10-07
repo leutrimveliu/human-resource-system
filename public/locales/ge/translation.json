@@ -1,0 +1,314 @@
+{
+  "welcome": "Willkommen",
+  "dashboard": "Instrumententafel",
+  "departments": "Abteilungen",
+  "employees": "Angestellte",
+  "payroll": "Lohn-und Gehaltsabrechnung",
+  "timeattendance": "Zeiterfassung",
+  "bonuses": "Boni",
+  "tasks": "Aufgaben",
+  "calendar": "Kalender",
+  "gallery": "Galerie",
+  "recruitments": "Einstellungen",
+  "AddDepartment": "Abteilung hinzufügen",
+  "AddEmployee": "Mitarbeiter hinzufügen",
+  "AddTask": "Aufgabe hinzufügen",
+  "DepartmentsList": "Abteilungsliste",
+  "EmployeesList": "Mitarbeiterliste",
+  "TaskList": "Aufgabenliste",
+  "EditDepartment": "Abteilung bearbeiten",
+  "EditEmployee": "Mitarbeiter bearbeiten",
+  "EditTask": "Aufgabe bearbeiten",
+  "AddJob": "Job hinzufügen",
+  "JobsList": "Job-Liste",
+  "EditJob": "Job bearbeiten",
+  "job": "Job",
+  "footerMenu1": [
+    {
+      "name": "Über uns"
+    },
+    {
+      "name": "Werdegang"
+    },
+    {
+      "name": "Dienstleistungen"
+    },
+    {
+      "name": "Eigenschaften"
+    },
+    {
+      "name": "Kontakt"
+    }
+  ],
+  "footerMenu2": [
+    {
+      "name": "Unsere Häuser"
+    },
+    {
+      "name": "Mitgliedergeschichten"
+    },
+    {
+      "name": "Nachbarn"
+    },
+    {
+      "name": "Seitenverzeichnis"
+    },
+    {
+      "name": "SchauBuch"
+    }
+  ],
+  "footerMenu3": [
+    {
+      "name": "Privatsphäre"
+    },
+    {
+      "name": "Geschäftsbedingungen"
+    },
+    {
+      "name": "Konto"
+    },
+    {
+      "name": "Werben"
+    },
+    {
+      "name": "Forschung"
+    }
+  ],
+  "footerMenu4": [
+    {
+      "name": "FAQ"
+    },
+    {
+      "name": "Unser Team"
+    },
+    {
+      "name": "Preisgestaltung"
+    },
+    {
+      "name": "Richtlinien für Mitglieder"
+    },
+    {
+      "name": "Partnerressourcen"
+    }
+  ],
+  "homeBanner": {
+    "title1": "HireSeek: Finden Sie den richtigen Job.",
+    "title2": "Jetzt sofort.",
+    "title3": "Die Leute finden Arbeit"
+  },
+  "login": "Einloggen",
+  "mainMenu": [
+    {
+      "link": "how-it-work",
+      "name": "Wie es funktioniert"
+    },
+    {
+      "link": "freelancer-search",
+      "name": "Job durchsuchen"
+    },
+    {
+      "link": "categories-business",
+      "name": "Arbeiter einstellen"
+    },
+    {
+      "link": "services-details",
+      "name": "Service fortsetzen"
+    },
+    {
+      "link": "partnership",
+      "name": "Partner"
+    },
+    {
+      "link": "support-center-overview",
+      "name": "Werber"
+    }
+  ],
+  "mobileMenu": [
+    {
+      "link": "how-it-work",
+      "name": "Wie es funktioniert"
+    },
+    {
+      "link": "freelancer-search",
+      "name": "Job durchsuchen"
+    },
+    {
+      "link": "categories-business",
+      "name": "Arbeiter einstellen"
+    },
+    {
+      "link": "services-details",
+      "name": "Service fortsetzen"
+    },
+    {
+      "link": "partnership",
+      "name": "Partner"
+    },
+    {
+      "link": "support-center-overview",
+      "name": "Werber"
+    },
+    {
+      "link": "sign-up",
+      "name": "Registrieren"
+    }
+  ],
+  "userMenu": {
+    "title1": "Nachrichten",
+    "title2": "Jobs",
+    "title3": "Freelancer",
+    "title4": "Teams",
+    "title5": "Einstellungen",
+    "title6": "Abmelden"
+  },
+  "searchBar": {
+    "title1": "Berufsbezeichnung auswählen",
+    "titel2": "Schlüsselwort, Name, Datum ...",
+    "title3": "Alle Jobs durchsuchen"
+  },
+  "jobAdd": "Jobs hinzugefügt",
+  "findJobs": {
+    "title1": "HireSeek: Finde den richtigen Job.",
+    "title2": "Im Moment.",
+    "title3": "Wählen Sie das Job-Tittle",
+    "title4": "Filter",
+    "title5": "Alle Jobs durchsuchen",
+    "title6": "Empfohlen",
+    "title7": "Neueste",
+    "title8": "Freelance",
+    "title9": "Vollzeit",
+    "title10": "Intersnship",
+    "title11": "Mehr durchsuchen (25.262)",
+    "title12": "Mehr anzeigen",
+    "title13": "vor 1 Monat"
+  },
+  "jobsActive": "Jobs aktiv",
+  "popularCategories": "Beliebte Kategorien",
+  "browseMore": "Mehr durchsuchen",
+  "recentNews": "Neueste Nachrichten",
+  "readMore": "Weiterlesen",
+  "featuresYouLike": "Funktionen, die Ihnen gefallen, Service, in den Sie sich verlieben werden!",
+  "whyTrust": "Warum HireSeek vertrauen?",
+  "browseCategories": "HireSeek: Kategorien durchsuchen.",
+  "rightNow": "Im Moment.",
+  "browserCategoriesDesc": "ist eine erweiterte Anwendung für Jobverzeichnisse und -listen, die vollständig im Symfony-Framework geschrieben wurde. Mit der Job-Plattform können Sie Ihre Webanwendung in kürzester Zeit erstellen. Symfony macht die Website für alle Entwickler mit Vorkenntnissen und Kenntnissen einfach anpassbar und flexibel Erfahrung des Rahmens. ",
+  "popularJobLocations": "Beliebte Arbeitsorte",
+  "popularJobTitles": "Beliebte Berufsbezeichnungen",
+  "popularJobCategories": "Beliebte Jobkategorien",
+  "popularJobCompanies": "Beliebte Jobfirmen",
+  "jobTitles": [
+    {
+      "link": "",
+      "name": "Banking / Finance"
+    },
+    {
+      "link": "",
+      "name": "Schönheitspflege / Gesundheit"
+    },
+    {
+      "link": "",
+      "name": "Building & Construction"
+    },
+    {
+      "link": "",
+      "name": "Design"
+    },
+    {
+      "link": "",
+      "name": "Bildung"
+    },
+    {
+      "link": "",
+      "name": "Engineering"
+    },
+    {
+      "link": "",
+      "name": "Gastfreundschaft"
+    },
+    {
+      "link": "",
+      "name": "Informationstechnologie"
+    }
+  ],
+  "jobCategories": [
+    {
+      "link": "",
+      "name": "Wohltätigkeitsorganisation / Soziale Dienste / gemeinnützige Organisation"
+    },
+    {
+      "link": "",
+      "name": "Chemikalie / Kunststoff / Papier / Petrochemie"
+    },
+    {
+      "link": "",
+      "name": "Öffentliche Dienste (Regierung, Streitkräfte)"
+    },
+    {
+      "link": "",
+      "name": "Kleidung / Kleidungsstück / Textil"
+    },
+    {
+      "link": "",
+      "name": "Educatio"
+    }
+  ],
+  "downloadOurApps": "Laden Sie unsere Apps für iOS- und Android-Plattformen herunter.",
+  "getMobileApp": "Get HireSeek Mobile App",
+  "baseInfoMenu": [
+    {
+      "link": "about",
+      "name": "About"
+    },
+    {
+      "link": "start-selling",
+      "name": "Start Selling"
+    },
+    {
+      "link": "pricing",
+      "name": "Preisgestaltung"
+    },
+    {
+      "link": "showcase-of-projects",
+      "name": "Schaufenster von Projekten"
+    },
+    {
+      "link": "mobile-app-underpage",
+      "name": "Mobile App"
+    },
+    {
+      "link": "contact",
+      "name": "Kontakt"
+    }
+  ],
+  "aboutUs": "About us",
+  "Browser": "Browser",
+  "AdditionalService": "Zusätzlicher Service",
+  "hilfreiche Ressource": "Hilfreiche Ressource",
+  "footerMenu5": [
+    {
+      "link": "contact",
+      "name": "Kontaktiere uns"
+    },
+    {
+      "link": "privacy-policy",
+      "name": "Privates Zentrum"
+    },
+    {
+      "link": "privacy-policy",
+      "name": "Security Center"
+    },
+    {
+      "link": "privacy-policy",
+      "name": "Sicherheitscenter"
+    },
+    {
+      "link": "Accessibility Center",
+      "name": "AdChoices"
+    }
+  ],
+  "subcribeTitle": "Abonnieren Sie unseren Newsletter",
+  "enterMail": "Geben sie ihre E-Mailadresse ein",
+  "subcribe": "Abonnieren",
+  "reserved": "Alle rechten voorbehouden",
+  "connectUs": "Maak contact met ons"
+}

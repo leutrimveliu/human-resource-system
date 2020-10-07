@@ -1,0 +1,11 @@
+.edit_employee_page{
+    height:100vh;
+}
+.edit_employee{
+    width: 25vw;
+    border: 1px solid #ced4da;
+    margin: 0 auto;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    background-color: white;
+}

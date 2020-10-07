@@ -1,0 +1,31 @@
+.language_container {
+  display: flex;
+  width: 180px;
+  align-items: center;
+  border: 1px solid rgba(142, 142, 142, 0.5);
+  border-radius: 10px;
+  padding: 9px 12px;
+}
+.sidebar {
+  z-index: 1;
+}
+
+.language_container:hover {
+  cursor: pointer;
+}
+
+span {
+  margin-left: 15px;
+  color: #fff;
+}
+
+.MuiButton-contained {
+  width: 180px;
+}
+.DashboardIcons {
+  color: white;
+  margin-right: 10px;
+}
+.languageButton {
+  margin-top: 200px;
+}
